@@ -1,35 +1,3 @@
-
-% Define colors for syntax highlighting
-{codegreen}{rgb}{0,0.6,0}
-{codegray}{rgb}{0.5,0.5,0.5}
-{codepurple}{rgb}{0.58,0,0.82}
-{backcolour}{rgb}{0.95,0.95,0.92}
-
-% Define C++ code style
-{cppstyle}{
-    backgroundcolor={backcolour},   
-    commentstyle={codegreen},
-    keywordstyle={magenta},
-    numberstyle={codegray},
-    stringstyle={codepurple},
-    basicstyle=,
-    breakatwhitespace=false,         
-    breaklines=true,                 
-    captionpos=b,                    
-    keepspaces=true,                 
-    numbers=left,                    
-    numbersep=5pt,                  
-    showspaces=false,                
-    showstringspaces=false,
-    showtabs=false,                  
-    tabsize=2
-}
-
-% Define color gradient for heatmap
-{matrix}
-
-{style=cppstyle, language=C++}
-
 # Dynamic Instruction Scheduling Using Tomasulo Algorithm
 **Authors:** Ashwinth Anbu M (CS22B2055)  Abishek Chakravarthy (CS22B2054)
 **Date:** 
